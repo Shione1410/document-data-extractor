@@ -6,6 +6,16 @@ Excel / CSV / Word / PDF / スキャンPDFから文字列や表データを抽�
 
 > 現在のバージョン: **v1.20.15**
 
+## Screenshots
+
+### メイン画面
+
+![Main window](docs/images/main-window.png)
+
+### OCR解析結果
+
+![OCR result](docs/images/ocr-result.png)
+
 ## 開発目的
 
 企業内には、Excel・CSV・Word・PDF・スキャンPDFなどの形式で情報が分散しており、業務システムやデータベースへ移行するには、人手による転記・整理・確認が必要になることがあります。
